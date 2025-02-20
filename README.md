@@ -1,3 +1,9 @@
+<div align="center">
+<br/>
+<img src="https://raw.githubusercontent.com/KelviNosse/KelviNosse/master/assets/terminal.gif" alt="Here is a little bit about me!">
+
+<br />
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Luis Antonio
