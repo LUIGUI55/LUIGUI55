@@ -1,43 +1,75 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<div align="center">
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Luis Antonio
-====================================================================================================================================
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2096F3&center=true&vCenter=true&width=435&lines=Hi,+I'm+Luis+Antonio+(Tony);Systems+Engineering+Student;Python+Enthusiast;Data+Science+Learner" alt="Typing SVG" />
 
-Tony
-----
+  <br/>
 
-I am a 20-year-old Systems Engineerinig studing currently learning to program, and my fovarite programmin languaje is Python
+  <a href="https://github.com/LUIGUI55" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:luisantonio6942@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.facebook.com/share/1QqyPRd2dp/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://www.x.com/GDSENPAI0" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
+  </a>
 
-* 🌍  I'm based in I'm From in Mexico State
-* 🖥️  See my portfolio at [Some of my projects are available in this repository](http://https://github.com/LUIGUI55/proyectos)
-* ✉️  You can contact me at [luis.paredes.labra@gmail.com](mailto:luis.paredes.labra@gmail.com)
-* 🧠  I'm learning python programming for data analytics and data science
-* 🤝  I'm open to collaborating on I;m interested in contributing to small front-end projects utilizing my skills in HTML and CSS
-* ⚡  my hobbies include listening to classical piano music, drawing and reading literature
+</div>
 
-<a href="https://www.github.com/LUIGUI55" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/LUIGUI55?logo=github&style=for-the-badge&color=ffffff&labelColor=000000" /></a><a href="https://www.x.com/GDSENPAI0" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/GDSENPAI0?logo=twitter&style=for-the-badge&color=ffffff&labelColor=000000"
-/></a>
-### Skills
+<hr/>
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
+### 👨‍💻 About Me
 
-### Socials
+I am a **21-year-old Systems Engineering student** based in **Mexico State**. I am currently focusing on improving my programming skills, with a strong passion for **Python** and Data Science.
 
-<p align="left"> <a href="https://www.facebook.com/Luis PL" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/LUIGUI55" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/gdsenpai0" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/LUIS ANTONIO PAREDES LABRA " target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/GDSENPAI0" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
+* 🔭 I’m currently working on **Data Analytics projects**.
+* 🌱 I’m currently learning **Data Science & Frontend Development**.
+* ⚡ **Hobbies:** Listening to classical piano music, drawing, and reading literature.
+* 🤝 I'm open to collaborating on small front-end projects.
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/LUIGUI55"><img src="https://github-readme-stats.vercel.app/api?username=LUIGUI55&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=a855f7&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="LUIGUI55's GitHub stats" /></a>
+### 🛠️ Tech Stack
 
-<a href="http://www.github.com/LUIGUI55"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LUIGUI55&stroke=a855f7&background=000000&ring=ef4444&fire=ef4444&currStreakNum=a855f7&currStreakLabel=ef4444&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
+<div align="center">
 
-<a href="https://github.com/LUIGUI55" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUIGUI55&langs_count=10&title_color=ef4444&text_color=a855f7&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 
-<b>Top Repositories</b>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/gnu_bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 
-<div width="100%" align="center"><a href="https://github.com/LUIGUI55/proyectos" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LUIGUI55&repo=proyectos&title_color=ef4444&text_color=a855f7&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/LUIGUI55">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LUIGUI55&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+<a href="https://github.com/LUIGUI55">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUIGUI55&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
+<br/>
+
+<a href="https://github.com/LUIGUI55">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LUIGUI55&theme=tokyonight&hide_border=true&background=0d1117" />
+</a>
+
+</div>
